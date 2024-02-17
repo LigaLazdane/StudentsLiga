@@ -1,0 +1,2 @@
+# StudentsLiga
+RISEBA studentu repozitorings
